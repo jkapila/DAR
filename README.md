@@ -1,0 +1,2 @@
+# DAR
+Distribution Assertive Regression
